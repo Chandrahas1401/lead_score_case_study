@@ -44,6 +44,7 @@ Accuracy : 90.9%
 Sensitivity : 79.3% 
 Specificity : 98.04% 
 ROC Curve Value : .97 
+
 Conclusion & Recommendations:- 
 The Model seems to be predicting the Lead Conversation very well, with a good balance of all evaluation metrics & good ROC Curve value.
 The Sales team can leverage this model with high confidence to call the leads.  If the need arises for a model with higher Sensitivity (to make calls to only most potential leads), we can increase the cut-off even more. 
